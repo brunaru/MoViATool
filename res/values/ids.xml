@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="navImageViewId" type="id"/>
+    <item name="navButtonViewId" type="id"/>
+</resources>
